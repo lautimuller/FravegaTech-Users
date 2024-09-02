@@ -1,4 +1,4 @@
-# FravegaTech
+# FravegaTech 🚀
 
 FravegaTech es una aplicación web diseñada para gestionar el manejo de usuarios de GitHub. Esta aplicación fue construida utilizando [Next.js](https://nextjs.org/) y ofrece funcionalidades para buscar usuarios, listar sus detalles y colocarlos como favoritos.
 
@@ -65,7 +65,7 @@ En el proyecto, puedes ejecutar los siguientes comandos:
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con migo [correo@ejemplo.com](lautiimuller@gmail.com).
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto [correo@ejemplo.com](lautiimuller@gmail.com).
 
 ---
 
